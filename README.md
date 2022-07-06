@@ -36,7 +36,7 @@
       <a href="#about-the-project">About The Project</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
-        <li><a href="#rest-api"> REST API</a></li>
+        <li><a href="#REST-API"> REST API</a></li>
         <li><a href="#laravel"> Laravel </a> </li>
         <li><a href="#postman"> Postman </a></li>
         <li><a href="#testing-the-project-with-postman"> Testing the project with postman </a></li>
