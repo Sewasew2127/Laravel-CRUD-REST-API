@@ -39,7 +39,7 @@
         <li><a href="#rest-api"> REST API</a></li>
         <li><a href="#laravel"> Laravel </a> </li>
         <li><a href="#postman"> Postman </a></li>
-        <li><a href="testing-the-project-with-postman"> Testing the project with postman </a></li>
+        <li><a href="#testing-the-project-with-postman"> Testing the project with postman </a></li>
       </ul>
     </li>
     <li><a href="#contact">Contact</a></li>
